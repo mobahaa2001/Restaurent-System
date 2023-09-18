@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695043218 source:c:\users\megooose\desktop\c programming_language\resturent_system\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
